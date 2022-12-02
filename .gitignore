@@ -5,3 +5,4 @@ submit_result_post.py
 ./code/eval.py
 ./code/train_pseudo.py
 ./code/train1.py
+.gitignore
